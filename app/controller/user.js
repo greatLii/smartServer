@@ -8,6 +8,5 @@ class UserController extends Controller {
             id: {type:'number'}
         }
         this.validate(rule)
-        
     }
 }
